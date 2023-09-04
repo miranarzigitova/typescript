@@ -46,3 +46,4 @@ const products: IProduct[] = [
 
 console.log(products);
 
+// ts-node task.ts
