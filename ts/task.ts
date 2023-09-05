@@ -19,7 +19,7 @@ console.log(calculateDensity(10, 5));
 
 //========================================================================
 
-interface IProduct {
+type IProduct = {
   id: number;
   title: string;
   description: string;
